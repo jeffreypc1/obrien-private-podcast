@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OBrien Private YouTube Feed</title>
+    <description>Private YouTube audio feed</description>
+    <link>https://obrien-private-podcast.onrender.com</link>
+    <language>en-us</language>
+
+    <item>
+      <title>Introducing Claude Code</title>
+      <description>Audio extracted from YouTube</description>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 GMT</pubDate>
+      <enclosure 
+        url="https://obrien-private-podcast.onrender.com/audio/Introducing%20Claude%20Code%20%5BAJpK3YTTKZ4%5D.m4a"
+        type="audio/mp4"
+        length="9000000" />
+      <guid>
+        https://obrien-private-podcast.onrender.com/audio/Introducing%20Claude%20Code%20%5BAJpK3YTTKZ4%5D.m4a
+      </guid>
+    </item>
+
+  </channel>
+</rss>
 
