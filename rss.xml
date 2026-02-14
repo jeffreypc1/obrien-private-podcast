@@ -46,6 +46,15 @@
       <guid>https://obrien-private-podcast.onrender.com/audio/AI_Briefing_Seu7nksZ_4k.m4a</guid>
     </item>
 
+
+    <item>
+      <title>YouTube Video</title>
+      <description>AI-enhanced YouTube briefing</description>
+      <pubDate>Sat, 14 Feb 2026 02:32:38 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/YouTube Video.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/YouTube Video.m4a</guid>
+    </item>
+
 </channel>
 </rss>
 
