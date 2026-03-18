@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>OBrien Private YouTube Feed</title>
     <description>Private YouTube audio feed</description>
     <link>https://obrien-private-podcast.onrender.com</link>
     <language>en-us</language>
+    <itunes:author>O'Brien Family</itunes:author>
+    <itunes:image href="https://obrien-private-podcast.onrender.com/artwork.jpg"/>
+    <itunes:category text="Technology"/>
 
     <item>
       <title>Introducing Claude Code</title>
@@ -62,6 +65,17 @@
       <pubDate>Fri, 20 Feb 2026 01:25:36 GMT</pubDate>
       <enclosure url="https://obrien-private-podcast.onrender.com/audio/YouTube Video.m4a" type="audio/mp4" length="10000000"/>
       <guid>https://obrien-private-podcast.onrender.com/audio/YouTube Video.m4a</guid>
+    </item>
+
+
+    <item>
+      <title>AI Briefing: Anthropic Didn't Build a New Browser. They Did Something Sma</title>
+      <description>AI Summary:
+Summary generation failed.</description>
+      <pubDate>Wed, 18 Mar 2026 16:54:55 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/Anthropic_Didn't_Build_a_New_Browser._They_Did_Something_Sma.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/Anthropic_Didn't_Build_a_New_Browser._They_Did_Something_Sma.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/QT7W_uHjqWE.jpg"/>
     </item>
 
 </channel>
