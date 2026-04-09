@@ -235,6 +235,16 @@ The Claude extension for Chrome is a game-changer, integrating a powerful AI dir
       <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/KBB9UyWKJqQ.jpg"/>
     </item>
 
+
+    <item>
+      <title>Mythos is real and it scares me... [Matthew Berman]</title>
+      <description>Mythos is real and it scares me... by Matthew Berman</description>
+      <pubDate>Thu, 09 Apr 2026 01:23:16 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/Mythos_is_real_and_it_scares_me..._SQhfkWdxVvE.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/Mythos_is_real_and_it_scares_me..._SQhfkWdxVvE.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/SQhfkWdxVvE.jpg"/>
+    </item>
+
 </channel>
 </rss>
 
