@@ -405,6 +405,16 @@ The Claude extension for Chrome is a game-changer, integrating a powerful AI dir
       <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/JmFKaqJg5X4.jpg"/>
     </item>
 
+
+    <item>
+      <title>"Software Fundamentals Matter More Than Ever" — Ma [AI Engineer]</title>
+      <description>"Software Fundamentals Matter More Than Ever" — Matt Pocock by AI Engineer</description>
+      <pubDate>Sat, 25 Apr 2026 22:19:54 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/Software_Fundamentals_Matter_More_Than_Ever_%E2%80%94_Ma_v4F1gFy-hqg.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/Software_Fundamentals_Matter_More_Than_Ever_%E2%80%94_Ma_v4F1gFy-hqg.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/v4F1gFy-hqg.jpg"/>
+    </item>
+
 </channel>
 </rss>
 
