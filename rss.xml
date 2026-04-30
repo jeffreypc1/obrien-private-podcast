@@ -455,6 +455,16 @@ The Claude extension for Chrome is a game-changer, integrating a powerful AI dir
       <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/6S18DdCwoto.jpg"/>
     </item>
 
+
+    <item>
+      <title>Github are you joking? [The PrimeTime]</title>
+      <description>Github are you joking? by The PrimeTime</description>
+      <pubDate>Thu, 30 Apr 2026 00:47:44 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/Github_are_you_joking_b13m-iuu4XU.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/Github_are_you_joking_b13m-iuu4XU.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/b13m-iuu4XU.jpg"/>
+    </item>
+
 </channel>
 </rss>
 
