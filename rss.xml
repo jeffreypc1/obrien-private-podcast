@@ -895,6 +895,16 @@ The Claude extension for Chrome is a game-changer, integrating a powerful AI dir
       <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/A3fxKRsvh3U.jpg"/>
     </item>
 
+
+    <item>
+      <title>A Conversation with Demis Hassabis, Co-Founder and [Stanford Graduate School of Business]</title>
+      <description>A Conversation with Demis Hassabis, Co-Founder and CEO of Google DeepMind by Stanford Graduate School of Business</description>
+      <pubDate>Sat, 04 Jul 2026 16:16:04 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/A_Conversation_with_Demis_Hassabis%2C_Co-Founder_and_DsewHeVbL.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/A_Conversation_with_Demis_Hassabis%2C_Co-Founder_and_DsewHeVbL.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/DsewHeVbL-0.jpg"/>
+    </item>
+
 </channel>
 </rss>
 
