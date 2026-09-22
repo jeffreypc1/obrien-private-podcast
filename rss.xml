@@ -1392,6 +1392,17 @@ In a groundbreaking development, Type-safe has launched Jev, a new AI model that
       <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/o1CogAtWdBk.jpg"/>
     </item>
 
+
+    <item>
+      <title>AI Briefing: It really is. No joke. [Maximilian Schwarzmüller]</title>
+      <description>AI Summary (by Maximilian Schwarzmüller):
+A new AI model called Jeff from Type-Safe AI has just launched, and it could revolutionize how we process text. Unlike traditional large language models, Jeff focuses on understanding text, allowing users to input messages and receive rapid, confident decisions. With lightning-fast responses and low costs—just $42 per billion tokens—Jeff is designed for efficiency, making it perfect for customer interactions. While it excels at decision-making, it can also complement large language models for tasks like text generation. Sign up for the waitlist today to explore its potential!</description>
+      <pubDate>Tue, 22 Sep 2026 00:56:15 GMT</pubDate>
+      <enclosure url="https://obrien-private-podcast.onrender.com/audio/It_really_is._No_joke._jaVeEz1yY4o.m4a" type="audio/mp4" length="10000000"/>
+      <guid>https://obrien-private-podcast.onrender.com/audio/It_really_is._No_joke._jaVeEz1yY4o.m4a</guid>
+      <itunes:image href="https://obrien-private-podcast.onrender.com/thumbs/jaVeEz1yY4o.jpg"/>
+    </item>
+
 </channel>
 </rss>
 
